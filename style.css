@@ -1,5 +1,7 @@
 body {
-    
+    /*Optimal Layout and positioning*/
+    margin: 0 auto;
+    padding: 1em 2em;
 }
 
 #pictureLayout {
