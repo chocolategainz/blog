@@ -49,4 +49,47 @@ height:100%;
 object-fit: cover;
 }
 
+/*Divider*/
+.divider-container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+}
 
+.sub-heading {
+ white-space: nowrap;
+}
+
+
+.divider , .dividerA {
+    flex-grow: 1px;
+    height: 5px;
+    min-width: 404px;
+}
+
+.divider {
+    background-color: red;
+}
+
+.dividerA {
+    background-color: blue;
+}
+
+/*Main Image*/
+.picture-container-B {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 900px;
+    height: 300px;
+    margin: 0 auto;
+    overflow:hidden;
+    }
+    
+    .video-games {
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+    }
