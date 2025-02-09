@@ -77,7 +77,7 @@ object-fit: cover;
 }
 
 /*Main Image*/
-.picture-container-B , .picture-container-C {
+.picture-container-B , .picture-container-C , .picture-container-D  {
     display:flex;
     justify-content: center;
     align-items: center;
